@@ -52,6 +52,25 @@
             <td>0.39</td>
             <td>0.82</td>
         </tr>
+        <tr>
+            <td rowspan=3>Word2Vec (Re-trained)</td>
+            <td >SVC</td>
+            <td>0.79</td>
+            <td>0.40</td>
+            <td>0.81</td>
+        </tr>
+        <tr>
+            <td >Feedforward</td>
+            <td>0.80</td>
+            <td>0.45</td>
+            <td>0.83</td>
+        </tr>
+        <tr>
+            <td >Bi-LSTM</td>
+            <td style="font-weight:bold">0.81</td>
+            <td style="font-weight:bold">0.50</td>
+            <td style="font-weight:bold">0.84</td>
+        </tr>
     </tbody>
 </table>
 

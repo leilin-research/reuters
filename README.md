@@ -78,6 +78,6 @@
 
 
 <p float="left">
-<img src="Reuters_confusion_matrix.png" width="275" height="275" />
-<img src="results/Reuters_confusion_matrix_normalized.png" width="275" height="275" />
+<img src="Reuters_confusion_matrix.png" width="300" height="275" />
+<img src="Reuters_confusion_matrix_normalized.png" width="300" height="275" />
 </p>

@@ -61,7 +61,7 @@
         </tr>
         <tr>
             <td >Feedforward</td>
-            <td>0.80</td>
+            <td style="text-align:center">0.80</td>
             <td>0.45</td>
             <td>0.83</td>
         </tr>

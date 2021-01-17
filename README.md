@@ -67,9 +67,9 @@
         </tr>
         <tr>
             <td >Bi-LSTM</td>
-            <td style="font-weight:bold">0.81</td>
-            <td style="font-weight:bold">0.50</td>
-            <td style="font-weight:bold">0.84</td>
+            <td><th>0.81</th></td>
+            <td><th>0.50</th></td>
+            <td><th>0.84</th></td>
         </tr>
     </tbody>
 </table>

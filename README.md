@@ -67,9 +67,9 @@
         </tr>
         <tr>
             <td >Bi-LSTM</td>
-            <th style="text-align:left">0.81</th>
-            <th style="text-align:left">0.50</th>
-            <th style="text-align:left">0.84</th>
+            <th style="text-align:left;">0.81</th>
+            <th style="text-align:left;">0.50</th>
+            <th style="text-align:left;">0.84</th>
         </tr>
     </tbody>
 </table>

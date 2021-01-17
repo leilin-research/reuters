@@ -74,3 +74,10 @@
     </tbody>
 </table>
 
+- The Confusion matrix of Bi-LSTM based on Re-trained Word2Vec is as follows:
+
+
+<p float="left">
+<img src="Reuters_confusion_matrix.png" width="275" height="275" />
+<img src="results/Reuters_confusion_matrix_normalized.png" width="275" height="275" />
+</p>

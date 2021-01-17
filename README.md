@@ -8,10 +8,50 @@
 
 - The classification accuracy, Macro F1 and Weighted F1 are shown below:
 
-**Feature Extraction**|**Model**|**Accuracy**|**Macro F1**|**Weighted F1**
-:-----:|:-----:|:-----:|:-----:|:-----:
-TF-IDF|SVC|0.81|0.47|0.84
-      |Feedforward|0.78|0.46|0.83
-Word2Vec (Pre-trained)|SVC|0.73|0.29|0.75
- 					  |Feedforward|0.76|0.43|0.8
- 					  |Bi-LSTM|0.8|0.39|0.82
+
+<table>
+    <thead>
+        <tr>
+            <th>Feature Extraction</th>
+            <th>Model</th>
+            <th>Accuracy</th>
+            <th>Macro F1</th>
+            <th>Weighted F1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2>TF-IDF</td>
+            <td >SVC</td>
+            <td>0.81</td>
+            <td>0.47</td>
+            <td>0.84</td>
+        </tr>
+        <tr>
+            <td >Feedforward</td>
+            <td>0.78</td>
+            <td>0.46</td>
+            <td>0.83</td>
+        </tr>
+        <tr>
+            <td rowspan=3>Word2Vec (Pre-trained)</td>
+            <td >SVC</td>
+            <td>0.73</td>
+            <td>0.29</td>
+            <td>0.75</td>
+        </tr>
+        <tr>
+            <td >Feedforward</td>
+            <td>0.76</td>
+            <td>0.43</td>
+            <td>0.80</td>
+        </tr>
+        <tr>
+            <td >Bi-LSTM</td>
+            <td>0.80</td>
+            <td>0.39</td>
+            <td>0.82</td>
+        </tr>
+    </tbody>
+</table>
+
